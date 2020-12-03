@@ -1,0 +1,11 @@
+﻿Sore Throat,Fever,Swollen Gland,Congestion,Headache,Diagnosis
+1,1,1,1,1,Strep throat
+0,0,0,1,1,Allergy
+1,1,0,1,0,Cold
+1,0,1,0,0,Strep throat
+0,1,0,1,0,Cold
+0,0,0,1,0,Allergy
+0,0,1,0,0,Strep throat
+1,0,0,1,1,Allergy
+0,1,0,1,1,Cold
+1,1,0,1,1,Cold
